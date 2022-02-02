@@ -1,0 +1,20 @@
+/* Estilos generales*/
+*{margin: 0;padding: 0;font-family:sans-serif;}
+div{
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
+}
+
+
+
+
+
+
+/*Gradientes*/
+.gradienteLineal{
+    background-image:linear-gradient(orange, darkviolet);
+}
+.gradientRadial{
+    background-image: radial-gradient(green, blue);
+}
